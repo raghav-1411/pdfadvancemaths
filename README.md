@@ -1,20 +1,30 @@
-# Learning Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
+# Learning Probability Density Functions using 102303580-Parameterized Non-Linear Model
 
-A Python implementation for learning probability density function parameters from transformed air quality data using maximum likelihood estimation.
+A Python implementation for learning probability density function parameters from transformed air quality data using Maximum Likelihood Estimation (MLE).
 
-## Overview
+---
 
-This project implements a parameterized non-linear transformation model to learn probability density functions. The analysis uses NO2 (Nitrogen Dioxide) data from the India Air Quality Dataset to demonstrate parameter estimation techniques.
+## 📌 Overview
 
-## Objectives
+This project implements a roll-number-parameterized non-linear transformation model to learn probability density functions. The analysis uses **NO₂ (Nitrogen Dioxide)** data from the India Air Quality Dataset to demonstrate parameter estimation techniques.
 
-1. **Transform Data**: Apply a roll-number-parameterized non-linear transformation to NO2 measurements
-2. **Parameter Learning**: Estimate parameters (λ, μ, c) of a Gaussian-like probability density function
-3. **Statistical Analysis**: Use maximum likelihood estimation to fit the distribution
+---
 
-##  Dataset
+## 🎯 Objectives
 
-**Source**: [India Air Quality Data](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)
+1. **Transform Data**: Apply a roll-number-parameterized non-linear transformation to NO₂ measurements  
+2. **Parameter Learning**: Estimate parameters (λ, μ, c) of a Gaussian-like probability density function  
+3. **Statistical Analysis**: Use Maximum Likelihood Estimation (MLE) to fit the distribution  
+
+---
+
+## 📂 Dataset
+
+- **Source**: India Air Quality Dataset (Kaggle)
+- **Source**: [India Air Quality Data](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)
+- **Feature Used**: NO₂ (Nitrogen Dioxide) concentration levels  
+
+---
 
 **Feature Used**: NO2 (Nitrogen Dioxide) concentration levels
 
@@ -111,3 +121,7 @@ This project demonstrates:
 - Data visualization techniques
 
 ---
+
+## 👨‍🎓 Roll Number
+
+**102303580**
